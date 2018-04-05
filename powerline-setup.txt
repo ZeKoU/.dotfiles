@@ -1,0 +1,11 @@
+STEPS:
+
+1. Follow this for font-awesome: https://github.com/gabrielelana/awesome-terminal-fonts/wiki/OS-X
+2. Download this and install with Font-Book: https://github.com/jldeen/bad-ass-terminal/blob/master/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf
+3. Setup .powerlinerc.zsh per Semartin's Configuration here: https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config
+   Make sure you source it in .zshrc
+4. Use current .zshrc on personal computer to setup work computer
+5. Use https://gist.github.com/kevin-smets/8568070 for zsh-autosuggestions advices
+
+Other advices: http://jessicadeen.com/tech/macos-ohmyzsh-tmux-vim-iterm2-powerlevel9k-badass-terminal/
+
